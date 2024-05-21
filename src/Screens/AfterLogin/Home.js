@@ -277,6 +277,7 @@ const Home = () => {
               marginTop: hp(-4.7),
               fontSize: hp(2.6),
               fontWeight: '600',
+              color:'#000'
             }}
             style={{alignItems: 'center', marginTop: hp(-3)}}
             iconStyle={{height: hp(5), width: wp(18)}}
